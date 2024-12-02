@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "AEAEA03C-8AC7-4FCA-ADB9-70FDB92701B7",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "dsa-swiftTests",
+        "name" : "dsa-swiftTests"
+      }
+    }
+  ],
+  "version" : 1
+}

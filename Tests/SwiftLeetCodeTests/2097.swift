@@ -2,7 +2,7 @@ import Foundation
 import Testing
 import XCTest
 
-@testable import dsa_swift
+@testable import SwiftLeetCode
 
 class Try2097Cases: XCTestCase {
     func read2097Fixture(fixtureName: String) throws -> [[Int]] {

@@ -1,7 +1,7 @@
 import SwiftCheck
 import XCTest
 
-@testable import dsa_swift
+@testable import SwiftLeetCode
 
 struct Word {
     let word: String
